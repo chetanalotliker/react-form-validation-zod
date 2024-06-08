@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Inspired by : https://www.youtube.com/watch?v=dldjCPa9ZW4
 
+View Demo: https://chetanalotliker.github.io/react-form-validation-zod
+
 ## Available Scripts
 
 In the project directory, you can run:
